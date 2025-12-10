@@ -18,7 +18,7 @@ Language package registries rarely remove old versions or packages. System packa
 | **ASP** | Answer Set Programming for optimization | Spack |
 | **PubGrub** | Conflict-driven clause learning with good error messages | Dart pub, Poetry, uv, SwiftPM |
 | **Molinillo** | Backtracking with forward checking | Bundler, CocoaPods, RubyGems |
-| **Backtracking** | Try versions, backtrack on conflict | pip, Cargo, Cabal |
+| **Backtracking** | Try versions, backtrack on conflict | pip, Cargo, Cabal, ansible-galaxy (collections) |
 | **Minimal Version Selection** | Always use minimum satisfying version | Go modules |
 | **Deduplication with nesting** | Deduplicate where possible, nest on conflict | npm, Yarn, pnpm, Bun |
 | **Version Mediation** | Pick based on graph position or declaration order | Maven, Gradle, NuGet |
